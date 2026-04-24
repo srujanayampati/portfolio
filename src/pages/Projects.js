@@ -9,7 +9,7 @@ const projects = [
     description:
       "A web app to help college students track their monthly expenses and manage a budget. Users can add expenses by category (food, transport, etc.), view a summary, and get alerts when they're close to the limit. Built with React for the frontend and localStorage for saving data.",
     techStack: ["React", "JavaScript", "CSS", "LocalStorage"],
-    githubLink: "https://github.com/srujanayampati",
+    githubLink: "https://github.com/srujanayampati/expense-tracker",
     emoji: "💸",
   },
   {
@@ -18,7 +18,7 @@ const projects = [
     description:
       "A simple weather application that fetches real-time weather data using the OpenWeatherMap API. Users can search for any city and see temperature, humidity, wind speed, and a 5-day forecast. I built this to practice API integration and async JavaScript.",
     techStack: ["HTML", "CSS", "JavaScript", "OpenWeatherMap API"],
-    githubLink: "https://github.com/srujanayampati",
+    githubLink: "https://github.com/srujanayampati/weather-app",
     emoji: "🌤️",
   },
   {
@@ -27,7 +27,7 @@ const projects = [
     description:
       "A Python-based CLI application to manage student marks and generate result reports. Supports adding students, entering marks for multiple subjects, computing GPA, and exporting results to a CSV file. Made this as a mini project for the DBMS course.",
     techStack: ["Python", "MySQL", "CSV"],
-    githubLink:"https://github.com/srujanayampati",
+    githubLink: "https://github.com/srujanayampati/result-management",
     emoji: "📊",
   },
 ];
